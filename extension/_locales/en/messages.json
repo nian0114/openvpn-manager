@@ -1,0 +1,26 @@
+{
+	"commonName": {
+		"message": "Common Name"
+	},
+	"realAddress": {
+		"message": "Real Address"
+	},
+	"bytesReceived": {
+		"message": "Received"
+	},
+	"bytesSent": {
+		"message": "Sent"
+	},
+	"since": {
+		"message": "Connected Since"
+	},
+	"virtualAddress": {
+		"message": "Virtual Address"
+	},
+	"onlineUser": {
+		"message": "$1 user online"
+	},
+	"onlineUsers": {
+		"message": "$1 users online"
+	}
+}

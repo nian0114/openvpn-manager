@@ -1,0 +1,26 @@
+{
+	"CommonName": {
+		"message": "用户名"
+	},
+	"realAddress": {
+		"message": "来源地址"
+	},
+	"bytesReceived": {
+		"message": "接收数据量"
+	},
+	"bytesSent": {
+		"message": "发送数据量"
+	},
+	"since": {
+		"message": "连接时间"
+	},
+	"virtualAddress": {
+		"message": "分配地址"
+	},
+	"onlineUser": {
+		"message": "$1 用户在线"
+	},
+	"onlineUsers": {
+		"message": "$1 用户在线"
+	}
+}
